@@ -2,7 +2,7 @@ Como transformar DataFrames
 
 Vamos dominar os conceitos básicos do pandas. Aprenda a inspecionar DataFrames e a realizar manipulações fundamentais, como classificação de linhas, criação de subconjuntos e adição de novas colunas.
 
-✅ Introdução a DataFrames
+✅ Introdução a DataFrames ✔️
 
 ✅ Inspeção de um DataFrame
 
